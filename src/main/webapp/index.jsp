@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>SensorNanny API</h2>
+<h2>SensorNanny Grabber</h2>
 </body>
 </html>
